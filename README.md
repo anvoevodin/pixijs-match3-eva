@@ -1,4 +1,4 @@
-# Mini Match 3 game with PixiJS
+# Mini HTML5 match 3 game in PixiJS
 
 [Check out demo!](http://anvoevodin.name/demos/pixijs-match3-eva/)
 
